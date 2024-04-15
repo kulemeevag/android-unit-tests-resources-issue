@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ExampleUnitTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="My_Application.feature.unitTest" />
+    <option name="PACKAGE_NAME" value="com.example.feature" />
+    <option name="MAIN_CLASS_NAME" value="com.example.feature.ExampleUnitTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
